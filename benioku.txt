@@ -1,0 +1,13 @@
+Proje test edilmiþtir.
+Harici bir eklenti indirilmesine gerek yoktur.
+
+***
+Garson Giriþi Ýçin;
+
+kullanýcý adý: 1
+þifre: 5
+***
+Yönetici Giriþi Ýçin;
+
+kullanýcý adý: burak	
+þifre: 123
